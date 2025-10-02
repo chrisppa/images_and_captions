@@ -1,0 +1,234 @@
+# Chihiro LoRA Training Captions
+# Trigger token: chihiro_ghibli
+# Total images: 230
+
+chihiro_1.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, smiling, sitting, warm lighting
+chihiro_10.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, angry, holding something, warm lighting
+chihiro_100.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, angry, holding something
+chihiro_101.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, peaceful, eating, atmospheric lighting
+chihiro_102.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, focused, working, atmospheric lighting
+chihiro_103.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, tired, talking, atmospheric lighting
+chihiro_104.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, excited, listening, atmospheric lighting
+chihiro_105.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, neutral expression, crouching, atmospheric lighting
+chihiro_106.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, smiling, leaning forward, atmospheric lighting
+chihiro_107.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, surprised, pointing, atmospheric lighting
+chihiro_108.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, worried, standing, atmospheric lighting
+chihiro_109.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, curious, sitting, atmospheric lighting
+chihiro_11.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, peaceful, eating, warm lighting
+chihiro_110.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, determined, walking, atmospheric lighting
+chihiro_111.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, scared, running, atmospheric lighting
+chihiro_112.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, happy, looking up, atmospheric lighting
+chihiro_113.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, sad, looking down, atmospheric lighting
+chihiro_114.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, confused, looking back, atmospheric lighting
+chihiro_115.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, angry, looking sideways, atmospheric lighting
+chihiro_116.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, peaceful, turning around, atmospheric lighting
+chihiro_117.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, focused, reaching out, atmospheric lighting
+chihiro_118.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, tired, holding something, atmospheric lighting
+chihiro_119.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, excited, eating, atmospheric lighting
+chihiro_12.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, focused, working, warm lighting
+chihiro_120.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, neutral expression, working, atmospheric lighting
+chihiro_121.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, smiling, talking, atmospheric lighting
+chihiro_122.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, surprised, listening, atmospheric lighting
+chihiro_123.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, worried, crouching, atmospheric lighting
+chihiro_124.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, curious, leaning forward, atmospheric lighting
+chihiro_125.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, determined, pointing, atmospheric lighting
+chihiro_126.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, scared, standing, atmospheric lighting
+chihiro_127.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, happy, sitting, atmospheric lighting
+chihiro_128.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, sad, walking, atmospheric lighting
+chihiro_129.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, confused, running, atmospheric lighting
+chihiro_13.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, tired, talking, warm lighting
+chihiro_130.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, angry, looking up, atmospheric lighting
+chihiro_131.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, peaceful, looking down, atmospheric lighting
+chihiro_132.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, focused, looking back, atmospheric lighting
+chihiro_133.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, tired, looking sideways, atmospheric lighting
+chihiro_134.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, excited, turning around, atmospheric lighting
+chihiro_135.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, neutral expression, reaching out, atmospheric lighting
+chihiro_136.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, smiling, holding something, atmospheric lighting
+chihiro_137.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, surprised, eating, atmospheric lighting
+chihiro_138.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, worried, working, atmospheric lighting
+chihiro_139.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, curious, talking, atmospheric lighting
+chihiro_14.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, excited, listening, warm lighting
+chihiro_140.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, determined, listening, atmospheric lighting
+chihiro_141.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, scared, crouching, atmospheric lighting
+chihiro_142.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, happy, leaning forward, atmospheric lighting
+chihiro_143.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, sad, pointing, atmospheric lighting
+chihiro_144.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, confused, standing, atmospheric lighting
+chihiro_145.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, angry, sitting, atmospheric lighting
+chihiro_146.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, peaceful, walking, atmospheric lighting
+chihiro_147.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, focused, running, atmospheric lighting
+chihiro_148.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, tired, looking up, atmospheric lighting
+chihiro_149.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, excited, looking down, atmospheric lighting
+chihiro_15.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, neutral expression, crouching, warm lighting
+chihiro_150.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, spirit world, magical atmosphere, fantasy elements, neutral expression, looking back, atmospheric lighting
+chihiro_151.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, smiling, looking sideways, dim lighting
+chihiro_152.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, surprised, turning around, dim lighting
+chihiro_153.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, worried, reaching out, dim lighting
+chihiro_154.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, curious, holding something, dim lighting
+chihiro_155.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, determined, eating, dim lighting
+chihiro_156.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, scared, working, dim lighting
+chihiro_157.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, happy, talking, dim lighting
+chihiro_158.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, sad, listening, dim lighting
+chihiro_159.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, confused, crouching, dim lighting
+chihiro_16.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, smiling, leaning forward, warm lighting
+chihiro_160.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, angry, leaning forward, dim lighting
+chihiro_161.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, peaceful, pointing, dim lighting
+chihiro_162.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, focused, standing, dim lighting
+chihiro_163.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, tired, sitting, dim lighting
+chihiro_164.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, excited, walking, dim lighting
+chihiro_165.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, neutral expression, running, dim lighting
+chihiro_166.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, smiling, looking up, dim lighting
+chihiro_167.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, surprised, looking down, dim lighting
+chihiro_168.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, worried, looking back, dim lighting
+chihiro_169.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, curious, looking sideways, dim lighting
+chihiro_17.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, surprised, pointing, warm lighting
+chihiro_170.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, determined, turning around, dim lighting
+chihiro_171.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, scared, reaching out, dim lighting
+chihiro_172.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, happy, holding something, dim lighting
+chihiro_173.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, sad, eating, dim lighting
+chihiro_174.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, confused, working, dim lighting
+chihiro_175.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, angry, talking, dim lighting
+chihiro_176.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, peaceful, listening, dim lighting
+chihiro_177.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, focused, crouching, dim lighting
+chihiro_178.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, tired, leaning forward, dim lighting
+chihiro_179.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, excited, pointing, dim lighting
+chihiro_18.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, worried, standing, warm lighting
+chihiro_180.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, neutral expression, standing, dim lighting
+chihiro_181.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, smiling, sitting, dim lighting
+chihiro_182.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, surprised, walking, dim lighting
+chihiro_183.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, worried, running, dim lighting
+chihiro_184.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, curious, looking up, dim lighting
+chihiro_185.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, determined, looking down, dim lighting
+chihiro_186.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, scared, looking back, dim lighting
+chihiro_187.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, happy, looking sideways, dim lighting
+chihiro_188.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, sad, turning around, dim lighting
+chihiro_189.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, confused, reaching out, dim lighting
+chihiro_19.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, curious, sitting, warm lighting
+chihiro_190.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, angry, holding something, dim lighting
+chihiro_191.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, peaceful, eating, dim lighting
+chihiro_192.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, focused, working, dim lighting
+chihiro_193.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, tired, talking, dim lighting
+chihiro_194.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, excited, listening, dim lighting
+chihiro_195.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, neutral expression, crouching, dim lighting
+chihiro_196.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, smiling, leaning forward, dim lighting
+chihiro_197.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, surprised, pointing, dim lighting
+chihiro_198.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, worried, standing, dim lighting
+chihiro_199.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, curious, sitting, dim lighting
+chihiro_2.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, surprised, walking, warm lighting
+chihiro_20.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, determined, walking, warm lighting
+chihiro_200.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, indoor scene, traditional objects, wooden floors, determined, walking, dim lighting
+chihiro_201.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, scared, running, atmospheric lighting
+chihiro_202.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, happy, looking up, atmospheric lighting
+chihiro_203.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, sad, looking down, atmospheric lighting
+chihiro_204.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, confused, looking back, atmospheric lighting
+chihiro_205.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, angry, looking sideways, atmospheric lighting
+chihiro_206.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, peaceful, turning around, atmospheric lighting
+chihiro_207.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, focused, reaching out, atmospheric lighting
+chihiro_208.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, tired, holding something, atmospheric lighting
+chihiro_209.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, excited, eating, atmospheric lighting
+chihiro_21.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, scared, running, warm lighting
+chihiro_210.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, neutral expression, working, atmospheric lighting
+chihiro_211.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, smiling, talking, atmospheric lighting
+chihiro_212.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, surprised, listening, atmospheric lighting
+chihiro_213.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, worried, crouching, atmospheric lighting
+chihiro_214.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, curious, leaning forward, atmospheric lighting
+chihiro_215.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, determined, pointing, atmospheric lighting
+chihiro_216.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, scared, standing, atmospheric lighting
+chihiro_217.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, happy, sitting, atmospheric lighting
+chihiro_218.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, sad, walking, atmospheric lighting
+chihiro_219.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, confused, running, atmospheric lighting
+chihiro_22.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, happy, looking up, warm lighting
+chihiro_220.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, angry, looking up, atmospheric lighting
+chihiro_221.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, peaceful, looking down, atmospheric lighting
+chihiro_222.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, focused, looking back, atmospheric lighting
+chihiro_223.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, tired, looking sideways, atmospheric lighting
+chihiro_224.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, excited, turning around, atmospheric lighting
+chihiro_225.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, neutral expression, reaching out, atmospheric lighting
+chihiro_226.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, smiling, holding something, atmospheric lighting
+chihiro_227.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, surprised, eating, atmospheric lighting
+chihiro_228.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, worried, working, atmospheric lighting
+chihiro_229.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, curious, talking, atmospheric lighting
+chihiro_23.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, sad, looking down, warm lighting
+chihiro_230.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, cinematic composition, detailed background, determined, listening, atmospheric lighting
+chihiro_24.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, confused, looking back, warm lighting
+chihiro_25.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, angry, looking sideways, warm lighting
+chihiro_26.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, peaceful, turning around, warm lighting
+chihiro_27.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, focused, reaching out, warm lighting
+chihiro_28.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, tired, holding something, warm lighting
+chihiro_29.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, excited, eating, warm lighting
+chihiro_3.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, worried, running, warm lighting
+chihiro_30.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, neutral expression, working, warm lighting
+chihiro_31.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, smiling, talking, warm lighting
+chihiro_32.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, surprised, listening, warm lighting
+chihiro_33.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, worried, crouching, warm lighting
+chihiro_34.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, curious, leaning forward, warm lighting
+chihiro_35.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, determined, pointing, warm lighting
+chihiro_36.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, scared, standing, warm lighting
+chihiro_37.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, happy, sitting, warm lighting
+chihiro_38.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, sad, walking, warm lighting
+chihiro_39.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, confused, running, warm lighting
+chihiro_4.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, curious, looking up, warm lighting
+chihiro_40.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, angry, looking up, warm lighting
+chihiro_41.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, peaceful, looking down, warm lighting
+chihiro_42.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, focused, looking back, warm lighting
+chihiro_43.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, tired, looking sideways, warm lighting
+chihiro_44.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, excited, turning around, warm lighting
+chihiro_45.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, neutral expression, reaching out, warm lighting
+chihiro_46.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, smiling, holding something, warm lighting
+chihiro_47.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, surprised, eating, warm lighting
+chihiro_48.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, worried, working, warm lighting
+chihiro_49.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, curious, talking, warm lighting
+chihiro_5.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, determined, looking down, warm lighting
+chihiro_50.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, determined, listening, warm lighting
+chihiro_51.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, scared, crouching
+chihiro_52.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, happy, leaning forward
+chihiro_53.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, sad, pointing
+chihiro_54.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, confused, standing
+chihiro_55.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, angry, sitting
+chihiro_56.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, peaceful, walking
+chihiro_57.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, focused, running
+chihiro_58.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, tired, looking up
+chihiro_59.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, excited, looking down
+chihiro_6.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, scared, looking back, warm lighting
+chihiro_60.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, neutral expression, looking back
+chihiro_61.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, smiling, looking sideways
+chihiro_62.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, surprised, turning around
+chihiro_63.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, worried, reaching out
+chihiro_64.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, curious, holding something
+chihiro_65.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, determined, eating
+chihiro_66.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, scared, working
+chihiro_67.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, happy, talking
+chihiro_68.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, sad, listening
+chihiro_69.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, confused, crouching
+chihiro_7.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, happy, looking sideways, warm lighting
+chihiro_70.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, angry, leaning forward
+chihiro_71.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, peaceful, pointing
+chihiro_72.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, focused, standing
+chihiro_73.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, tired, sitting
+chihiro_74.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, excited, walking
+chihiro_75.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, neutral expression, running
+chihiro_76.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, smiling, looking up
+chihiro_77.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, surprised, looking down
+chihiro_78.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, worried, looking back
+chihiro_79.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, curious, looking sideways
+chihiro_8.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, sad, turning around, warm lighting
+chihiro_80.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, determined, turning around
+chihiro_81.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, scared, reaching out
+chihiro_82.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, happy, holding something
+chihiro_83.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, sad, eating
+chihiro_84.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, confused, working
+chihiro_85.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, angry, talking
+chihiro_86.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, peaceful, listening
+chihiro_87.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, focused, crouching
+chihiro_88.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, tired, leaning forward
+chihiro_89.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, excited, pointing
+chihiro_9.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, bathhouse interior, traditional japanese architecture, confused, reaching out, warm lighting
+chihiro_90.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, neutral expression, standing
+chihiro_91.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, smiling, sitting
+chihiro_92.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, surprised, walking
+chihiro_93.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, worried, running
+chihiro_94.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, curious, looking up
+chihiro_95.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, determined, looking down
+chihiro_96.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, scared, looking back
+chihiro_97.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, happy, looking sideways
+chihiro_98.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, sad, turning around
+chihiro_99.txt: chihiro_ghibli, 1girl, brown hair, brown eyes, short hair, child, anime style, outdoor scene, bridge, river, natural lighting, confused, reaching out
